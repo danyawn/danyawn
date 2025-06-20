@@ -6,14 +6,11 @@
 
 I am a passionate developer with a love for coding and solving problems. I enjoy working on a variety of projects and always strive to learn new things.
 
-- 🔭 I’m currently working on [Project Name]()
-- 🌱 I’m currently learning [Technology/Programming Language]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Project/Technology]
-- 💬 Ask me about [Technology/Expertise]
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I’m currently working at [Techave.dev](https://github.com/techave-dev)
+- 🌱 I’m currently learning Typescript & Python
+- 💬 Ask me about Software Engineer and Web Development
+- 📫 How to reach me: [Yan Danu](thephantomwarrior02@gmail.com)
+- ⚡ Fun fact: Morning coffee enjoyer & tech enthusiast
 
 ## My GitHub Stats
 
