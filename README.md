@@ -16,7 +16,7 @@ I am a passionate developer with a love for coding and solving problems. I enjoy
 
 ![danyawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyawn&show_icons=true&theme=radical)
 
-## 🤔 Where are all the A stats??
+## 🤔 Where are the A stat??
 If you're wondering why my contribution graph looks a bit sparse, don't worry—I'm coding almost every day! 😉
 Most of my work happens "behind the scenes" in my company's **private repositories**. So, while my public profile might look quiet, my keyboard definitely isn't!
 
