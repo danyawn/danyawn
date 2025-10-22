@@ -1,4 +1,4 @@
-# Hi there, I'm Kidman 👋
+# Hi there, I'm Yan Danu 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danyawn&color=blueviolet)
 
