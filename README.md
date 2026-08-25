@@ -102,9 +102,16 @@ Outside the codebase, there is a very high chance I am drinking an **Americano**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danyawn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Yan Danu's GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyawn&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyawn&theme=github_dark&animation=load&duration=2.2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyawn&theme=github&animation=load&duration=2.2">
+  <img width="49%" alt="Yan Danu's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danyawn&theme=github_dark&animation=load&duration=2.2">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyawn&theme=github_dark&animation=draw&duration=2.2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyawn&theme=github&animation=draw&duration=2.2">
+  <img width="49%" alt="Top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danyawn&theme=github_dark&animation=draw&duration=2.2">
+</picture>
 
 </div>
 
